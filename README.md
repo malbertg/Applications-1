@@ -11,11 +11,11 @@ ReadWise is an application designed to enhance language proficiency through the 
 - **Custom Tailored Content:** Supports language learning by generating content aligned with the user's learning objectives and preferences. 💡
 - **Streamlit Interface:** Provides an easy-to-use web interface for an engaging user experience. 🖥️
 
-![Screenshot 1: Upload Interface](path/to/your/screenshot1.png)
-*Screenshot 1: Upload Interface*
+![Layout of the application](layout.png "Layout of the application")
+*Layout of the application.*
 
-![Screenshot 2: Q&A Generation](path/to/your/screenshot2.png)
-*Screenshot 2: Q&A Generation*
+![Output of the application](output.png "Output of the application")
+*Details of the layout.*
 
 ## Installation
 
@@ -61,8 +61,8 @@ streamlit run your_script_name.py
 ```
 Access the application via the URL that pops up to start using ReadWise. 🚀
 
-###Contributions
+### Contributions
 Your contributions to ReadWise are welcome! Feel free to fork the repository, make your changes, and submit a pull request. ❤️
 
-###License
+### License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
